@@ -1,7 +1,8 @@
 # Data Structure
+
 Self implement data structure with Python3 
 
-` All data structure implemented with Python 3.5 
+All data structure implemented with Python 3.5 
 
 Running on jupyter notebook 2.0
 
